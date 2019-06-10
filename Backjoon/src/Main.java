@@ -30,7 +30,9 @@ public class Main {
 //		b.solution();
 //		B_14912 b = new B_14912();
 //		b.solution();
-		B_1463 b = new B_1463();
+//		B_1463 b = new B_1463();
+//		b.solution();
+		B_2579 b = new B_2579();
 		b.solution();
 		
 	}
