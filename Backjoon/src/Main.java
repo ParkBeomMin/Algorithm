@@ -44,7 +44,9 @@ public class Main {
 //		b.solution();
 //		B_11052 b = new B_11052();
 //		b.solution();
-		B_2193 b = new B_2193();
+//		B_2193 b = new B_2193();
+//		b.solution();
+		B_10610 b = new B_10610();
 		b.solution();
 		
 	}
